@@ -1,12 +1,11 @@
 # Fair Community Initiative (FCI)
 
 <p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/t2GRiQC.png" width="200" alt="FCI logo">
-		<img alt="Descrição da imagem" src="https://i.imgur.com/ap4k4pj.png" width="200" alt="FCI logo">
-	</picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/t2GRiQC.png" width="200" alt="FCI logo">
+  <img alt="Descrição da imagem" src="https://i.imgur.com/ap4k4pj.png" width="200" alt="FCI logo">
+ </picture>
 </p>
-
 
 > Independent stewardship for sustainable software licensing.
 
